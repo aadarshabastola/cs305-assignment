@@ -32,5 +32,8 @@ A discord clone created with ReactJS.
   </ul>
 </details>
 
+#Moderation being added soon
+-jbg264
+
 ### Special Thanks
 [Code With Antonio](https://www.codewithantonio.com)
